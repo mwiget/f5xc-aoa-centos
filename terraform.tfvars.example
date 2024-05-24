@@ -1,0 +1,11 @@
+project_prefix       = "prefix"
+owner                = "user@email.com"
+
+f5xc_kubeconfig      = "./<cluster>.kubeconfig"
+ssh_public_key_file  = "/Users/user/.ssh/id_rsa.pub"
+
+f5xc_api_url      = "https://tenant.console.ves.volterra.io/api"
+f5xc_api_token    = "............................"
+f5xc_tenant       = "<tenant_id>"
+f5xc_api_p12_file = "<path to console.ves.volterra.io.api-creds.sb.p12>"
+
